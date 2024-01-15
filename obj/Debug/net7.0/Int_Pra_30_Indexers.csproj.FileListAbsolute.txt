@@ -1,0 +1,15 @@
+/Users/davidsmith/Desktop/Repos/Int_Pra_30_Indexers/Int_Pra_30_Indexers/bin/Debug/net7.0/Int_Pra_30_Indexers
+/Users/davidsmith/Desktop/Repos/Int_Pra_30_Indexers/Int_Pra_30_Indexers/bin/Debug/net7.0/Int_Pra_30_Indexers.deps.json
+/Users/davidsmith/Desktop/Repos/Int_Pra_30_Indexers/Int_Pra_30_Indexers/bin/Debug/net7.0/Int_Pra_30_Indexers.runtimeconfig.json
+/Users/davidsmith/Desktop/Repos/Int_Pra_30_Indexers/Int_Pra_30_Indexers/bin/Debug/net7.0/Int_Pra_30_Indexers.dll
+/Users/davidsmith/Desktop/Repos/Int_Pra_30_Indexers/Int_Pra_30_Indexers/bin/Debug/net7.0/Int_Pra_30_Indexers.pdb
+/Users/davidsmith/Desktop/Repos/Int_Pra_30_Indexers/Int_Pra_30_Indexers/obj/Debug/net7.0/Int_Pra_30_Indexers.csproj.AssemblyReference.cache
+/Users/davidsmith/Desktop/Repos/Int_Pra_30_Indexers/Int_Pra_30_Indexers/obj/Debug/net7.0/Int_Pra_30_Indexers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/davidsmith/Desktop/Repos/Int_Pra_30_Indexers/Int_Pra_30_Indexers/obj/Debug/net7.0/Int_Pra_30_Indexers.AssemblyInfoInputs.cache
+/Users/davidsmith/Desktop/Repos/Int_Pra_30_Indexers/Int_Pra_30_Indexers/obj/Debug/net7.0/Int_Pra_30_Indexers.AssemblyInfo.cs
+/Users/davidsmith/Desktop/Repos/Int_Pra_30_Indexers/Int_Pra_30_Indexers/obj/Debug/net7.0/Int_Pra_30_Indexers.csproj.CoreCompileInputs.cache
+/Users/davidsmith/Desktop/Repos/Int_Pra_30_Indexers/Int_Pra_30_Indexers/obj/Debug/net7.0/Int_Pra_30_Indexers.dll
+/Users/davidsmith/Desktop/Repos/Int_Pra_30_Indexers/Int_Pra_30_Indexers/obj/Debug/net7.0/refint/Int_Pra_30_Indexers.dll
+/Users/davidsmith/Desktop/Repos/Int_Pra_30_Indexers/Int_Pra_30_Indexers/obj/Debug/net7.0/Int_Pra_30_Indexers.pdb
+/Users/davidsmith/Desktop/Repos/Int_Pra_30_Indexers/Int_Pra_30_Indexers/obj/Debug/net7.0/Int_Pra_30_Indexers.genruntimeconfig.cache
+/Users/davidsmith/Desktop/Repos/Int_Pra_30_Indexers/Int_Pra_30_Indexers/obj/Debug/net7.0/ref/Int_Pra_30_Indexers.dll
